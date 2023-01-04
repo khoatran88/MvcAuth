@@ -1,5 +1,12 @@
 
-*.config
-*.config
-*.vsidx
-*.pdb
+MvcAuth/.vs
+MvcAuth/MvcAuth/obj
+MvcAuth/MvcAuth/bin
+MvcAuth/MvcAuth/obj/Debug
+MvcAuth/packages
+MvcAuth/MvcAuth/obj/Debug
+MvcAuth/MvcAuth/obj/Debug/MvcAuth.csproj.AssemblyReference.cache
+MvcAuth/MvcAuth/obj/Debug/MvcAuth.dll
+MvcAuth/MvcAuth/obj/Debug/MvcAuth.pdb
+MvcAuth/MvcAuth/obj/Debug/MvcAuth.csproj.AssemblyReference.cache
+*.dll
